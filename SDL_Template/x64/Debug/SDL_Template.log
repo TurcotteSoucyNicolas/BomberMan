@@ -1,0 +1,32 @@
+﻿  Block.cpp
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Bomb.cpp
+  Destructible.cpp
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Destructible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Enemy.cpp
+  Explosion.cpp
+  Game.cpp
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Destructible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Grid.h(61,39): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Gameover.cpp
+  Grid.cpp
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Destructible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Grid.h(61,39): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Grid.cpp(47,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Input.cpp
+  main.cpp
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Destructible.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\SDL_Template\Grid.h(61,39): warning C4834: discarding return value of function with 'nodiscard' attribute
+  MainMenu.cpp
+  Player.cpp
+  Sprite.cpp
+  Vector2.cpp
+  VictoryScreen.cpp
+  Generating Code...
+  SDL_Template.vcxproj -> C:\Users\nicol\OneDrive\Desktop\École\Session2\OrrientéObj\Orient-Objet\Orient-Objet\x64\Debug\SDL_Template.exe
+  SDL2\lib\x64\SDL2.dll
+  SDL2\lib\x64\SDL2_image.dll
+          2 file(s) copied.
